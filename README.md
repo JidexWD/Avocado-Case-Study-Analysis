@@ -13,10 +13,10 @@ A Case Study Project
 
   
 ## Project Overview 
-  You are a jjunnior data analyst working for a busness intelligence company.you've been there for 6 mmonths, and your boss feels youare ready for more responsibility. he has asked you to lead a project for a brand neww client - he wants you tocarry out an analysis for a book store. they want you to use the amazon top 50 best sweller from 2009 to 2019 to provide insights for them to stock their inventory and maximize thier sales.
+  You are a junior data analyst working for a business intelligence company. You've been there for six months, and your boss feels you are ready for more responsibility. He has asked you to lead a project for a brand-new client – an avocado distributor. They want you to carry out an analysis on avocado prices using a dataset from Kaggle to provide insights on pricing trends, sales volume, and regional preferences. The goal is to help them make data-driven decisions to maximize their revenue and optimize their inventory strategy based on market demands.
 ## Data Source
-  Amazon Top 50 best sellers
-  https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+  Avocado prices
+  https://www.kaggle.com/datasets/neuromusic/avocado-prices
   
 ## Tools
   MySQL | Ms Excel | Tableau
